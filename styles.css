@@ -1,0 +1,18 @@
+
+.links {text-align: right;margin-top: 1%;margin-right: 1%;font-family: Arial, sans-serif; font-size: 14px;}
+.space{height: 150px;}
+.field{display:flex;z-index:3;height:44px;background:#fff;border:1px solid #dfe1e5;box-shadow:none;border-radius:24px;margin:0 auto;width:638px;width:auto;max-width:584px;}
+.field:hover,.a .field{background-color:#fff;box-shadow:0 1px 6px rgba(32,33,36,.28);border-color:rgba(223,225,229,0)}
+.coursorPosition{flex:1;display:flex;padding:5px 8px 0 14px;}
+.coursPos{display:flex;align-items:center;padding-right:13px;margin-top:-5px}
+.coursPos1{display:flex;flex:1;flex-wrap:wrap}
+.coursPos2{color:transparent;flex:100%;white-space:pre;height:34px;font-size:16px;}
+.input{background-color:transparent;border:none;margin:0;padding:0;color:rgba(0,0,0,.87);word-wrap:break-word;outline:none;display:flex;flex:100%;-webkit-tap-highlight-color:transparent;margin-top:-37px;height:34px;font-size:16px;}
+.searchButtons{height:70px}
+.searchButtons input[type="submit"],
+.sButtons{background-color:#f8f9fa;border:1px solid #f8f9fa;border-radius:4px;color:#3c4043;font-family:arial,sans-serif;font-size:14px;margin:11px 4px;padding:0 16px;line-height:27px;height:36px;min-width:54px;text-align:center;cursor:pointer;user-select:none}
+.searchButtons input[type="submit"]:hover{box-shadow:0 1px 1px rgba(0,0,0,.1);background-color:#f8f9fa;border:1px solid #dadce0;color:#202124}
+.searchButtons input[type="submit"]:focus{border:1px solid #4285f4;outline:none}
+
+.margin{margin: 1%;}
+.button{text-align: right;}
